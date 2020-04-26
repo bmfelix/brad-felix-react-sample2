@@ -16,7 +16,7 @@ function App() {
                   <a className="navbar-brand" href="/">
                       <img src={logo} width="30" height="30" alt="ReactJS Logo" />
                   </a>
-                  <Link to="/" className="navbar-brand">MERN-Stack Todo App</Link>
+                  <Link to="/" className="navbar-brand">ReactJS Todo App</Link>
                   <div className="collpase navbar-collapse">
                       <ul className="navbar-nav mr-auto">
                           <li className="navbar-item">
